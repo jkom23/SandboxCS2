@@ -1,0 +1,99 @@
+--- Terminal ---
+
+Jack Komaroff 
+
+1. What is one advantage of using a text-based interface over a graphical one?
+
+It requires less bandwidth than a graphical based interface that would have images and fonts. The text has the lowest amount of bandwidth needed to load. 
+
+2. What is the difference between a relative path and an absolute path?
+
+Absolute path will start from the root, whereas a relative path starts from the current directory.
+
+3. Which terminal command tells you which folder you're currently in?
+
+"pwd"
+
+4. Which terminal command moves you to your parent directory?
+
+"cd .."
+
+5. What is one advantage of using a terminal-based text editor (like Emacs) over a program like TextEdit?
+
+In terminal, you can't make a side-by-side window open up. In emacs, you can open multiple windows above, and to the side of the current window, a very helpful tool.
+
+--- Basic Java ---
+1. Can one variable hold more than one value?
+
+Yes, an array can hold more than one value. 
+
+2. Why do you need to compile Java code before you can run it?
+
+We compile java code so it can be transferred into a language that can be properly read by our computer, from source code to machine code.
+
+3. Which terminal command compiles a Java file?
+
+"javac file.java"
+
+4. What is the file extension of a compiled Java file?
+
+A compiled java file, has a ".class" extension. 
+
+5. How do you indicate a line comment? What about a block comment?
+
+Line comments are 
+
+//comment here
+
+Block comments are 
+
+/*
+*comment
+*comment
+*comment
+*/
+
+--- Loops and Arrays ---
+1. Describe a situation when you would use a while loop instead of a for loop.
+
+If you want to make a loop with a boolean condition, instead of a loop up until a certain number. For example, while (boolean is true), run this code.
+
+2. If you are using a for loop to go through an array, and you run into an Index Out of Bounds Exception, how would you fix it?
+
+This means that your loop is going above the amount of indexes in the array, so you need to set the limit of the for loop to be "i<array.length". This means that the for loop will  run until it hits the final index in the array. 
+
+3. Can you put different types into one array?
+
+No, each array can only have one type. Ex. double array, int array etc.
+
+4. How do you access a specific element of an array?
+
+If an array is called "nums", and the element is "I", nums[i] will yield the element.
+ex. nums[0] --> 32
+ex. nums[99] --> 439
+
+5. Can the length of an array change once it's made?
+
+No, the length is permanent.
+
+--- Classes ---
+
+1. What does private/public mean?
+
+Public means that the method can be accessed by anyone, for a private method, you can only access it by using a getter or a setter. 
+
+2. Describe a situation when you wouldn't want to write a setter.
+
+If you want a value to be unchanged, for example your password, you would not wan't a setter, which would allow someone to change your password. 
+
+3. What is the difference between a variable, an object, and a class?
+
+A variable can change, but an object is an instance of a class. A class is a template to create an object. 
+
+4. Can you have multiple instances of the same class?
+
+Yes, you can have instance variables for many different things.
+
+5. Describe a situation when you would want to have a default constructor.
+
+If a user is making an account, a default constructer could set their preferences to default and set default information that will later be replaced. 

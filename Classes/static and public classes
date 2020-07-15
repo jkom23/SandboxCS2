@@ -1,0 +1,20 @@
+Public vs private 
+(access modifiers)
+
+modify who is allowed to acces the files
+
+everything in same folder is in a package
+
+        same class                  different class
+
+public      true                        true
+
+private     true                        false
+
+      
+
+
+make everything as private as possible, unless it needs to be seen by others
+
+static-belongs to class vs belongs to instance
+

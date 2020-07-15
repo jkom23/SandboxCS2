@@ -1,0 +1,32 @@
+Jack Komaroff
+HW -9/23/19
+Mr. Lee
+
+
+Use words to describe what the following lines of code do.
+
+
+	boolean gameOver;
+It will say whether the game Is over or not (true false)
+	double gravity = 9.81;
+It will store the value of "gravity" to be 9.81
+	numTests = 0;
+It sets the value of numTests to 0
+	String errorMessage = “Something’s wrong!”;
+It is a set of char in a string message
+
+What type of variable would be best for the following situations?
+
+
+	I need to store the number of jelly beans in a jar.
+You should use an int, it is a whole number.
+	My fingers are getting tired of typing “Mr. Lee” over and over again.
+Use Char, you can store a string of characters.
+	I want a quick way to see if the store is open or not.
+Use a boolean, they are true/false.
+	I want a counter that keeps track of how many visits my website got.
+Use an int, they can store whole numbers. Unless your website gets over 4.2 billion visits, you will have ample space.
+	I need to calculate the area of a circle given the radius.
+Use a double, it can handle non whole numbers.
+	I want to remember the name of a restaurant so I can check it out after work.
+Use Char, you can store a string of characters.

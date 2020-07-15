@@ -1,0 +1,9 @@
+﻿Jack Komaroff
+Computer Science 2
+Mr. Lee
+
+
+* What previous experience do you have with computer science (if any)?
+I have not taken Intro to Computer Science but have self taught myself HTML and CSS. I have (and currently still using) Codecademy.com to learn HTML and CSS. I also went to an IDtech camp this summer in Unreal Engine level design and I know some blueprints. I have worked with NumPy and Python before, but only in a pre-built simulation format. I am very comfortable with computers and their hardware as I have built my own computer before. 
+* Have you worked on any coding projects in the past?
+I have worked on the projects that Codecademy recommends which include: fashion blog, Mad Libs style website, schedules (table format), resumé websites, basic CSS styling, Blog websites (semantic HTML) and I have created a single level video game in Unreal Engine 4.

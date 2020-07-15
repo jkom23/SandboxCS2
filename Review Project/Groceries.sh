@@ -1,0 +1,10 @@
+mkdir Groceries
+mkdir Groceries/Protiens
+mkdir Groceries/Protiens/Meats
+mkdir Groceries/Snacks
+mkdir Groceries/Snacks/Fruits
+mkdir Groceries/Snacks/Chips
+touch Groceries/jumbo.egg
+touch Groceries/Protiens/silk.tofu
+touch Groceries/Snacks/Fruits/durian.frt
+touch Groceries/Snacks/Chips/onion.rings

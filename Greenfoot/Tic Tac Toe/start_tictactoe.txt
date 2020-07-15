@@ -1,0 +1,15 @@
+Jack Komaroff
+
+1. What are the instance variables for Board?
+int turnNum
+int playerNum
+boolean gameOver
+int[] board 
+2. What are the instance variables for Cell?
+Board board
+int status
+int id;
+3. Which method in Cell is responsible for checking if it was clicked?
+checkClick()
+4. Which method in Board is responsible for changing whose turn it is?
+alternatePlayer()

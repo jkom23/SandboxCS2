@@ -1,0 +1,14 @@
+1. What does this Java program print out? (similar to what we did in class)
+Risk of rain.
+Good thing I have an umbrella.
+It will be raining for 21 days.
+There will be a total of 6.3 inches of rain. 
+2. What are the final values of the declared variables?
+haveUmbrella = false
+isPrepared = false
+daysOfRain = 19
+degreesF = 90
+inchesOfRain = 119.9
+Weather = Good thing I have an umbrella.
+3. Explain your answers to 1 and 2.
+By looking at when the program says system.out.println you can track the variables (question 2) and have it print them out. For example, the variable weather changed from “Risk of rain.” to “Good thing I have an umbrella.” as the boolean expressions had different statements. These changes happen when new values are set. For example the value of inchesOfRain changes when the code inchesOfRain = daysOfRain * 0.3; is said.

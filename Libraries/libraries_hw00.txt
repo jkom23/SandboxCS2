@@ -1,0 +1,11 @@
+1. You don’t have to make every function from scratch and can use premade methods.
+2. “import"
+3. To interact with with user
+4. “java.awt.geom”
+5. Provides the Java 2D classes for defining and performing operations on objects related to two-dimensional geometry.
+6. “java.lang.String.isEmpty()”
+7. “Math.max()”
+8. “System.gc()”
+9. Packages organize 
+classes that have the same functionality. Classes can make objects and control their properties and behavior. Package is a group of classes and a class is a group of objects.
+10. It will reset the Scanner, so Scanner is the return type. 

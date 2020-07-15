@@ -1,0 +1,5 @@
+1. The game Snake, but a little simpler. A snake will move around the board in 90 degree motions and eat mushrooms. This increases your score. If your score is over 5, you can boost forward. This will continue until you hit the wall of the world.
+2. Actor subclasses: Snake that will move by arrows and boost with shift. Mushrooms will be generated in random positions. Also, there is a bubble for the score to be in. World Sublcass: A garden field with barriers at the end of the world. 
+3. When the snake actor hits the mushroom, the mushroom will disappear, the score will increase, and a new mushroom will randomly appear. 
+4. The user will control the snake with arrows and shift. 
+5. The project ends when the snake hits the wall and it says Game over to the user.

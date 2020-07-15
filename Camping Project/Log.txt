@@ -1,0 +1,55 @@
+Write down:
+ * who worked on which parts, and when you worked together
+ * any thoughts or concerns you might have while working on this project
+ * roughly how long each method took
+ * any extra information you want me to know
+----------------------------------------------------------
+
+Food.java - Jack Komaroff
+
+It is 10/21- Log Date. Jack K. I am working on food.java and having difficulties to find a solution to the s'mores problem. It is late at night and I am still having issues with all of the Food.java questions. I will speak to Mr. Lee tomorrow during our free.
+--Log Out--
+
+It is 10/22- Log Date. Jack K. I am determined to finish at least one method on Food.java before I meet with Mr. Lee. I have met with Mr. Lee and through his expert guidance I have figured out 3 methods. 
+--Log Out--
+
+It is 10/22- Log Date. Jack K. I have just finished my 4th method all by myself. I used math.pow for the multiplying marshmallows. It was an easy method. I am now working on the picky eater method. I have finished most of it, but I have a error with my return statements. I have troubleshooted and fixed method 5. I am currently having difficulty with the sandwich method. I can find a way to have it check any number, not just a number that I have listed to return as sandwich ID. 
+
+It is 10/22- Log Date. Jack K. I am working on the sandwich method. I have an idea to use a while loop and and if else statement inside of it. So far, I am encountering errors. 
+--Log Out--
+
+It is 10/23- Log Date. Jack K. I am still working on sandwich method. It is very difficult. Sophia helped me fix my issue with my sixth method. It is done. Beginning work on the final method. I have now just finished the final method. It was not very challenging. 
+(methods are in order of list in ()main )
+Method 1 = 30 min
+Method 2 = 10 min
+Method 3 = 20 min
+Method 4 = 10 min
+Method 5 = 10 min
+Method 6 = 80 min
+Method 7 = 15 min
+(In Food.Java)
+--Log Out--
+
+Equipment.java - Sophia Brothers
+Monday A period/C period = worked on what I thought I could do in the
+moment checkTarp, checkBoots, checkBearBag and countFlashlights.
+Monday night = proved these 4 methods - took a while as the code was
+fundamentally right but I kept missing things like semi colons and
+brackets.
+Wednesday A period = worked on checkTable and proved it. Originally I
+had trouble figuring out what to do but then it clicked and I figured
+it out.
+Wednesday H period = worked on pairSocks and checkTents. I had a lot
+of trouble with figuring out how to code these methods. Everything I
+could think of had some flaw that would cause problems. I ended up not
+being able to figure it out in class.
+Wednesday night = Later that night, about an hour after working on
+both methods, I finally figured out how to solve them. checkTents I
+had the right idea I just had trouble figuring out how to input it
+into code. With checkSocks I was at a loss but after referring back to
+one of our previous java files, I was able to figure something out.
+
+10/29
+
+Sophia and Jack worked on completing and fixing our final errors. We still had some errors but did the best we could.
+

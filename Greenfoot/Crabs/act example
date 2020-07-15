@@ -1,0 +1,10 @@
+act(){
+    if(Greenfoot.mouseClicked(this)){
+        //code
+    }
+    if(Greenfoot.isKeyDown("space)){
+        //code
+    }
+    int x = getRandomNumber(21);
+
+}

@@ -1,0 +1,25 @@
+Jack Komaroff HW
+
+1.
+Class - a blueprint/template from which objects are created
+Object - also called an instance of a class
+Variable - a container in which data is stored 
+2. "extends"
+3. if you have new class that has some identical method to that of the superclas, you could inherit from the superclass and not have to rewrite the code
+4.
+a. Insect is the superclass of subclasses: Ladybug, Bee, Moth 
+b. Bird is the superclass of subclasses: Eagle, Parrot, Hawk, Seagull
+c. Vehicle is the superclass of subclasses: cars, trains, buses, motorcycle
+5.
+
+Random r = new Random();  
+public void act(){
+    if (!isAtEdge()){
+        move(1);
+    }else{
+        turn(r.nextInt(361));
+        move(1);
+    }
+ 
+}
+}

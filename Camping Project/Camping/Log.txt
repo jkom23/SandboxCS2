@@ -1,0 +1,6 @@
+Write down:
+ * who worked on which parts, and when you worked together
+ * any thoughts or concerns you might have while working on this project
+ * roughly how long each method took
+ * any extra information you want me to know
+----------------------------------------------------------

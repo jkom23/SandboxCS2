@@ -1,0 +1,14 @@
+1. An algorithm that generates a random sequence of binary
+2. When you are playing minecraft, and you want a random location
+3. Where you want a different random number number every time
+4.
+    a.
+        -10 + r.nextInt(31);
+    b.
+        r.nextInt(101);
+    c.
+        -234 + r.nextInt(469);
+5.
+random = r.nextInt(array.length());
+arr[random];
+

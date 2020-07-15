@@ -1,0 +1,9 @@
+1. I want the greeps to detect paint colors around them, move to the paint and then give a tomato to the other greep. 1/2 the greeps shoudl send the inital paint signal, and the other half would move towards them.
+ I want this to be in a loop where greep A loads a tomato onto the greep B, and then the greep B loads a tomato onto greep A.
+2. 10 greeps will send a paint signal, which the other 10 greeps will detect and move towards them so they can work together
+3.
+    1. carryingTomato()
+    2. dropTomato()
+    3. spit(String color)
+    4. seePaint(String color)
+    5. turnHome()

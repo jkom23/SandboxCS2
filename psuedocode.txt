@@ -1,0 +1,57 @@
+Get on the bike
+While not at destination
+    move foot to pedal
+    move other foot to pedal
+You have arrived
+
+Walk into a room
+While there are uncounted people
+    count a person
+Say how many people
+
+While there are coins in the jar
+    Add up the value of the coins
+Say the total value
+
+
+
+set mynumber = 349
+while user guess != my number
+    if too low
+        tell them
+    else 
+        tell them
+    guess = user try again
+yay you guessed it
+
+give insturctions
+while user hasnt gotten it wrong
+    generate problem
+    keep track of score
+thanks for playing 
+print score
+
+
+
+
+main():
+give insturctions 
+
+gameOver = false
+score = 0
+
+while !gameOver
+    generateProblem()
+    if they get it right
+        score += 1
+    else
+        gameOver = true
+
+thanks for playing
+print score
+
+generateProblem():
+    generate 2 random numbers
+    ask user to add them
+    return true if they get it right
+    
